@@ -1,0 +1,31 @@
+# Data files
+data/
+*.csv
+*.xlsx
+*.json
+
+# Model files
+models/
+*.pkl
+*.h5
+
+# Log files
+*.log
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook artifacts
+.ipynb_checkpoints/
+*.html
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+
+# Sensitive information
+.env
